@@ -20,3 +20,7 @@ Using D3 techniques, create a scatter plot that represents each state with circl
 
 * Create and situate your axes and labels to the left and bottom of the chart.
 
+
+### Copyright
+
+Trilogy Education Services © 2019. All Rights Reserved.
